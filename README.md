@@ -1,3 +1,8 @@
+
+# [GitHub.io](https://parreira5.github.io/solarminds-site/)
+
+# [http://solarminds.com.br/](http://solarminds.com.br/) (godady + google firebase)
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
 
 [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
